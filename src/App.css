@@ -5,4 +5,11 @@
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
+.accordion-item, .accordion-header, .accordion-button {
+  background-color: rgba(167, 194, 222, 0.37);
+}
+
+p, strong{
+  color:#fff
+}
 /* write your parent styles in here for your App.js */
